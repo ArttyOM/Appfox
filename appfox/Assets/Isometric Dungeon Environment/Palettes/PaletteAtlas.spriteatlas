@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: PaletteAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 3d05cf80bcf6a324395f619627e2c404, type: 3}
+    totalSpriteSurfaceArea: 14680064
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: f9aa544080663df41886796e5887badc, type: 3}
+  - {fileID: 21300000, guid: 64d7927034db92848806cb1006487776, type: 3}
+  - {fileID: 21300000, guid: 9362c6411c7e2fa46ad83e07d136020d, type: 3}
+  - {fileID: 21300000, guid: 018685d1a3428e94c804b8cc13dbc944, type: 3}
+  - {fileID: 21300000, guid: a2f7d895ec580be4a92b63ca159d071e, type: 3}
+  - {fileID: 21300000, guid: 3466acb763403ee44a150c34eaa1186d, type: 3}
+  - {fileID: 21300000, guid: ff7b80d7de34a1e409384d01ee7958c8, type: 3}
+  - {fileID: 21300000, guid: dfe96e58474e37b47a013ceb2e73120b, type: 3}
+  - {fileID: 21300000, guid: 8e8d090afa3d9b74db3e2046935bda9f, type: 3}
+  - {fileID: 21300000, guid: 4ac3f58c809472546a2f57269ccbad5d, type: 3}
+  - {fileID: 21300000, guid: 78ada1ccb3dbc2648b20875205d1f83a, type: 3}
+  - {fileID: 21300000, guid: 460401eccc79f0c47a4fe0ab9c0dbec6, type: 3}
+  - {fileID: 21300000, guid: 64f3beadd58e83c418e8dd95ecf1689b, type: 3}
+  - {fileID: 21300000, guid: e9b31f9fdb32aa8458d980410745d616, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Barrel(closed)
+  - Stair_R
+  - Stair_L
+  - Floor
+  - Chest(closed)
+  - Torch_R
+  - Wall1_L
+  - Wall2_L
+  - Wall2_R
+  - Table
+  - Wall1_R
+  - Torch_L
+  - Chest(open)
+  - Barrel(open)
+  m_Tag: PaletteAtlas
+  m_IsVariant: 0
